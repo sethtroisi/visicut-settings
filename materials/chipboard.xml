@@ -1,8 +1,8 @@
 <material>
   <description>thick cardstock, non-corrugated cardboard</description>
   <thumbnailPath>chipboard.png</thumbnailPath>
-  <engraveColor>#000000</engraveColor>
-  <cutColor>#000000</cutColor>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
   <color>#ffffff</color>
   <name>chipboard</name>
   <materialThicknesses>
