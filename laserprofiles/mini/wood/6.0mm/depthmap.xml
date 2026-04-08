@@ -3,6 +3,5 @@
     <power>100</power>
     <speed>90</speed>
     <focus>0.0</focus>
-    <hideFocus>true</hideFocus>
   </PowerSpeedFocusProperty>
 </linked-list>

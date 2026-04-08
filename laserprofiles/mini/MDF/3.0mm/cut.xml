@@ -3,7 +3,6 @@
     <power>100</power>
     <speed>20</speed>
     <focus>0.0</focus>
-    <hideFocus>true</hideFocus>
     <frequency>1000</frequency>
   </PowerSpeedFocusFrequencyProperty>
 </linked-list>
